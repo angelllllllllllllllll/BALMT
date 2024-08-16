@@ -1,0 +1,22 @@
+body{
+    margin: 20px;
+    padding: 5px;
+    text-align: center;
+    justify-content: space-around;
+}
+
+.img1{
+    width: 50%;
+    height: 30%;
+    position: left;
+}
+.img2{
+    width: 50%;
+    height: 30%;
+    position: center;
+}
+.img3{
+    width: 50%;
+    height: 30%;
+    position: right;
+}
